@@ -26,8 +26,8 @@ The goal is to move beyond simple "winner/loser" metrics and gain a **visual poi
 ## 🚀 Getting Started
 
 ### Prerequisites
-* Python 3.9+
-* Google Cloud Project with Vertex AI enabled OR a Gemini API Key.
+* Python 3.11+
+* Gemini API Key.
 * `ffmpeg` (optional, for processing video files).
 
 ### Installation
@@ -61,3 +61,7 @@ python creative_gemini_visual_annotator.py \
   --out-dir ./output_report \
   --metrics click_through_rate conversion_rate \
   --pairwise
+
+### Sample Output
+[annotated_creative_report.docx](https://github.com/user-attachments/files/25078444/annotated_creative_report.docx)
+
