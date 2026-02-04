@@ -61,6 +61,7 @@ python creative_gemini_visual_annotator.py \
   --out-dir ./output_report \
   --metrics click_through_rate conversion_rate \
   --pairwise
+```
 
 ### Sample Output
 [annotated_creative_report.docx](https://github.com/user-attachments/files/25078444/annotated_creative_report.docx)
