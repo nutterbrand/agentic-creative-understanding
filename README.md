@@ -44,8 +44,7 @@ The goal is to move beyond simple "winner/loser" metrics and gain a **visual poi
     ```
 
 3.  **Set up Authentication:**
-    * **Option A (Vertex AI - Recommended):** Ensure you have the Google Cloud CLI installed and authenticated (`gcloud auth login`).
-    * **Option B (API Key):** Set your environment variable:
+    * **(API Key):** Set your environment variable:
         ```bash
         export GEMINI_API_KEY="your-api-key-here"
         ```
